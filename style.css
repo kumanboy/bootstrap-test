@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav li a{
+    color: #505F98;
+}
+
+.navbar-nav li a:hover{
+    color: #32407c;
+}
+.pro-name{
+    color: #37447E;
+    padding-left:130%;
+}
+.logo-name span{
+    color: #37447E;
+}
+#button1{
+    background-color: #111b47;
+}
+/*banner*/
+#banner{
+    margin-top:13%
+}
+.banner-title{
+    color:#091133
+}
+.banner-text{
+    color: #505F98;
+}
+#banner-btn{
+    background-color: #111b47;
+    color: #fff;
+}
+#category-btn{
+    background-color: #111b47;
+    color: #fff;
+}
+#footer-btn{
+    background-color: #111b47;
+    color: #fff;
+}
+#price-btn{
+    background-color: #111b47;
+    color: #fff;
+}
+#banner-btn2{
+    border: solid #091133 1px;
+    color: #091133;
+}
+/*about*/
+#about{
+    margin-top: 5%;
+}
+.about-title{
+    color: #091133;
+}
+/*category*/
+#category{
+    margin-top: 5%;
+}
+/*price*/
+#price{
+    margin-top: 10%;
+    background-color: #E7ECFF;
+}
+.price-title{
+    color: #091133;
+}
+.price-tag{
+    color: #091133;
+    font-size: 70px;
+}
+/*footer*/
+#footer{
+    background-color: #4668dd;
+}
